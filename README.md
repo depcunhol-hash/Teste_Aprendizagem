@@ -1,2 +1,3 @@
 # Teste_Aprendizagem
-Teste para aprender a mexer com Github
+## Testar vários modos
+Teste para *aprender* a mexer com Github
