@@ -4,6 +4,32 @@
     color: white;
   }
 </style>
+
+/* Estilo específico para a tabela */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #1a1a1a; /* Cinza muito escuro para contrastar com o preto */
+    color: white;
+    border: 1px solid #444;
+  }
+
+  /* Estilo do cabeçalho */
+  th {
+    background-color: #333; /* Cinza um pouco mais claro */
+    padding: 10px;
+    border: 1px solid #444;
+  }
+
+  /* Estilo das células */
+  td {
+    padding: 10px;
+    border: 1px solid #444;
+    text-align: left;
+  }
+</style>
+
+
 # Teste_Aprendizagem
 ## Testar vários modos
 Teste para *aprender* a mexer com Github
