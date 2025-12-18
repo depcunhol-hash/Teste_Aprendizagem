@@ -1,30 +1,28 @@
 <style>
+  /* Define o fundo da página inteira */
   body {
-    background-color: black;
-    color: white;
+    background-color: black !important;
+    color: white !important;
   }
 
-/* Estilo específico para a tabela */
+  /* Força cores específicas na tabela para evitar o fundo branco */
   table {
+    background-color: #222 !important; /* Cinza escuro */
+    color: white !important;           /* Texto branco */
     border-collapse: collapse;
     width: 100%;
-    background-color: #1a1a1a; /* Cinza muito escuro para contrastar com o preto */
-    color: white;
-    border: 1px solid #444;
   }
 
-  /* Estilo do cabeçalho */
+  /* Estilo das células e cabeçalho */
+  th, td {
+    border: 1px solid #444 !important;
+    padding: 8px !important;
+    color: white !important;
+  }
+
+  /* Garante que o cabeçalho se destaque */
   th {
-    background-color: #333; /* Cinza um pouco mais claro */
-    padding: 10px;
-    border: 1px solid #444;
-  }
-
-  /* Estilo das células */
-  td {
-    padding: 10px;
-    border: 1px solid #444;
-    text-align: left;
+    background-color: #333 !important;
   }
 </style>
 
