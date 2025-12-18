@@ -13,6 +13,7 @@ Teste para *aprender* a mexer com Github
 - Issues: Discussão de problemas conhecidos
 
 ## Ferramentas no Github
+
 | **Ferramenta** | **O que faz?** | **Nível de dificuldade** |
 | :---: | :---: | :---: |
 |Editor Web|Apenas altera o texto|Muito Fácil|
