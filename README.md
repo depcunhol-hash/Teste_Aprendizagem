@@ -21,3 +21,6 @@ Teste para *aprender* a mexer com Github
 |GitHub Pages|Mostra o seu site ao vivo|Fácil|
 |Codespaces|Corre o código num computador virtual|Médio|
 |Actions|Automatiza testes e tarefas|Avançado|
+
+## Ficheiros especiais
+_config.yml - é o cérebro das configurações no github
