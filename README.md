@@ -1,4 +1,9 @@
-theme: Midnight
+<style>
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
 # Teste_Aprendizagem
 ## Testar vários modos
 Teste para *aprender* a mexer com Github
