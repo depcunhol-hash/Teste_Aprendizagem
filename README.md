@@ -3,7 +3,6 @@
     background-color: black;
     color: white;
   }
-</style>
 
 /* Estilo específico para a tabela */
   table {
