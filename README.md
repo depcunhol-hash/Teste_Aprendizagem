@@ -24,3 +24,6 @@ Teste para *aprender* a mexer com Github
 
 ## Ficheiros especiais
 _config.yml - é o cérebro das configurações no github
+
+Teste para apagar e voltar atrás
+
