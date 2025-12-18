@@ -1,31 +1,35 @@
 <style>
-  /* Define o fundo da página inteira */
   body {
     background-color: black !important;
     color: white !important;
   }
 
-  /* Força cores específicas na tabela para evitar o fundo branco */
-  table {
-    background-color: #222 !important; /* Cinza escuro */
-    color: white !important;           /* Texto branco */
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  /* Estilo das células e cabeçalho */
-  th, td {
+  /* Remove os estilos automáticos do tema para a tabela */
+  table, tr, td, th {
+    background-color: transparent !important;
     border: 1px solid #444 !important;
-    padding: 8px !important;
-    color: white !important;
   }
 
-  /* Garante que o cabeçalho se destaque */
+  /* Define uma cor de fundo sólida para a tabela toda */
+  table {
+    background-color: #1a1a1a !important; 
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  /* Garante que o texto de todas as células seja visível */
+  td, th {
+    color: #e0e0e0 !important; /* Um branco levemente acinzentado */
+    padding: 10px !important;
+  }
+
+  /* Destaca o cabeçalho */
   th {
     background-color: #333 !important;
+    color: white !important;
+    font-weight: bold;
   }
 </style>
-
 
 # Teste_Aprendizagem
 ## Testar vários modos
